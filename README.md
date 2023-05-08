@@ -25,7 +25,7 @@ para fazer login no recipes basta colocar um email em um formato valido no campo
 [Sarah Ferreira](https://github.com/sarah-s-ferreira)<br>
 
 ## como rodar o projeto localmente
-1. faça o clone desde repositorio 
-2. entre na pasta do projeto e execute o comando npm install
-3. execute o comando npm test para realizar o test, pode ser que seja pedido que você aperte a tecla "a" após o comando
-4. execute o comando npm start para abrir a aplicação
+1. faça o clone desde repositorio. 
+2. entre na pasta do projeto e execute o comando npm install.
+3. execute o comando npm test para realizar o test, pode ser que seja pedido que você aperte a tecla "a" após o comando.
+4. execute o comando npm start para abrir a aplicação.
