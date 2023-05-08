@@ -15,8 +15,7 @@ describe('Testes tela de login', () => {
       </ContextProvider>,
 
     );
-    expect(screen.getByRole('heading', { name: 'Login', level: 1 }));
-    expect(screen.getByRole('button', { name: 'Enter' }));
+    expect(screen.getByRole('button', { name: 'Login' }));
     expect(screen.getByPlaceholderText(placeholderEmail)).toBeInTheDocument();
     expect(screen.getByPlaceholderText(placeholderSenha)).toBeInTheDocument();
   });
@@ -29,7 +28,7 @@ describe('Testes tela de login', () => {
       </ContextProvider>,
 
     );
-    const button = screen.getByRole('button', { name: 'Enter' });
+    const button = screen.getByRole('button', { name: 'Login' });
     const inputEmail = screen.getByPlaceholderText(placeholderEmail);
     const inputSenha = screen.getByPlaceholderText(placeholderSenha);
     expect(button).toBeDisabled();
@@ -47,7 +46,7 @@ describe('Testes tela de login', () => {
 
     );
 
-    const button = screen.getByRole('button', { name: 'Enter' });
+    const button = screen.getByRole('button', { name: 'Login' });
     const inputEmail = screen.getByPlaceholderText(placeholderEmail);
     const inputSenha = screen.getByPlaceholderText(placeholderSenha);
 
@@ -66,7 +65,7 @@ describe('Testes tela de login', () => {
 
     );
 
-    const button = screen.getByRole('button', { name: 'Enter' });
+    const button = screen.getByRole('button', { name: 'Login' });
     const inputEmail = screen.getByPlaceholderText(placeholderEmail);
     const inputSenha = screen.getByPlaceholderText(placeholderSenha);
 
