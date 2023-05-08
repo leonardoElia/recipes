@@ -18,11 +18,11 @@ para fazer login no recipes basta colocar um email em um formato valido no campo
 []()
 
 ## colaboradores
-[leonardo elias](https://github.com/leonardoElia)
-[Matheus](https://github.com/math180)
-[Mariana Nascimento](https://github.com/MariSIN)
-[Roger Marques](https://github.com/rogermarques08)
-[Sarah Ferreira](https://github.com/sarah-s-ferreira)
+[leonardo elias](https://github.com/leonardoElia)<br>
+[Matheus](https://github.com/math180)<br>
+[Mariana Nascimento](https://github.com/MariSIN)<br>
+[Roger Marques](https://github.com/rogermarques08)<br>
+[Sarah Ferreira](https://github.com/sarah-s-ferreira)<br>
 
 ## como rodar o projeto localmente
 1. faça o clone desde repositorio 
