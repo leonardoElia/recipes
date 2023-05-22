@@ -1,7 +1,7 @@
 # seja bem-vindo(a) ao meu projeto recipes
 
 ## sobre o projeto
-Está afim de aprender um nova receita? então venha conhecer o recipes um projeto que te trás diversas receitas de comidas e drinks. No Recipes, você pode encontrar uma variedade de receitas deliciosas e fáceis de fazer, desde pratos principais até sobremesas incríveis. Com um simples clique, você pode acessar uma grande seleção de receitas que são perfeitas para qualquer ocasião.
+Está afim de aprender um nova receita? então venha conhecer o Recipes um projeto que te trás diversas receitas de comidas e drinks. No Recipes, você pode encontrar uma variedade de receitas deliciosas e fáceis de fazer, desde pratos principais até sobremesas incríveis. Com um simples clique, você pode acessar uma grande seleção de receitas que são perfeitas para qualquer ocasião.
 
 ## tecnologias e ferramentas utilizadas utilizadas
 * React
